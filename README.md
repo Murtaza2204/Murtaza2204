@@ -2,7 +2,7 @@
 <h3 align="center">AI & Data Science Student | Computer Vision & ML Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Medical+AI+Developer;Computer+Vision+Engineer;Full-Stack+AI+Builder;Hackathon+Winner;Clean+Code+Advocate" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Medical+AI+Developer;Computer+Vision+Engineer;Full-Stack+AI+Builder;Hackathon+Winner;" />
 </p>
 
 ---
