@@ -67,9 +67,6 @@
   <a href="mailto:murtazawaheedtamboli@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://leetcode.com/u/Murtaza15/">
-    <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
 </p>
 
 ---
