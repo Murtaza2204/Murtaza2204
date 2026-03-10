@@ -7,13 +7,13 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🎓 B.Tech in AI & Data Science @ VIIT, Pune (CGPA: 8.95)
-- 🤖 Passionate about building intelligent AI systems
-- 🧬 Focused on Medical AI & Deep Learning
-- 🌐 Developing scalable AI-powered web applications
-- 🏆 National Level Hackathon Winner
+-  B.Tech in AI & Data Science @ VIIT, Pune (CGPA: 8.95)
+-  Passionate about building intelligent AI systems
+-  Focused on Medical AI & Deep Learning
+-  Developing scalable AI-powered web applications
+-  National Level Hackathon Winner
 
 ---
 
