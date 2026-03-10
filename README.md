@@ -49,27 +49,6 @@
 </p>
 
 ---
-
-### 🚀 Featured Projects
-
-🧠 **AI-Based Alzheimer’s Disease Detection**
-- CNN-based MRI classification model
-- Processed 5,000+ medical images
-- Achieved 92% validation accuracy
-- Deployed using Flask for real-time inference
-
-🏥 **AI-Powered Telemedicine Platform**
-- Built with React, Django & Firebase
-- AI-driven symptom analysis
-- Digital prescriptions & remote consultation
-
-🎥 **Real-Time Face Recognition Attendance System**
-- YOLOv8 + FaceNet implementation
-- FastAPI backend deployment
-- Faculty analytics dashboard
-
----
-
 ### 🏆 Achievements
 
 🥇 1st Place — National Federated Intelligence Health AI Hackathon  
